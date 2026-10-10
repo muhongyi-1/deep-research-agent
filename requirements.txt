@@ -1,0 +1,8 @@
+# Core Agent runtime
+openai-agents==0.23.1
+openai==3.26.0
+pydantic==2.13.5
+python-dotenv==1.2.4
+
+# Free web search (availability depends on upstream search services)
+ddgs>=9,<11
